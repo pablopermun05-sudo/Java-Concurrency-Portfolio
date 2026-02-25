@@ -1,4 +1,4 @@
-### 🛠️ Technical Overview
+### Technical Overview
 
 | Project | Key Technologies | Problem Solved |
 | :--- | :--- | :--- |
@@ -9,6 +9,6 @@
 | **05-RMI-Parking** | `Java RMI` | Implementation of a remote access and priority management system for parking. |
 | **06-JCSP-Parking** | `JCSP Library`, `Channels` | Concurrency control through message-passing and virtual channel communication. |
 
-### 🚀 Highlights
+### Highlights
 * **Graphical Feedback:** Every project includes a **Java Swing Canvas** for real-time visualization of thread states.
 * **Design Patterns:** Proper use of **Runnable** vs **Thread** and implementation of priority-based logic.
